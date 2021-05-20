@@ -1,0 +1,11 @@
+typescript is superset of js
+-  ts add some extra feature to js
+-  all js code can work in ts but ts code not work in js 
+-  browser or node engine can't compile ts it needs ts compiler for that and it convert code into js workaround code  
+ts make js scrictly typed cast lang
+- means all datatypes will have type with variables
+ts make development with less error 
+- it catch type error at development time not runtime 
+Ts is a Tool that helps developers write better code 
+
+
